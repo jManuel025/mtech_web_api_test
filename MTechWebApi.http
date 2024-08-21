@@ -1,0 +1,6 @@
+@MTechWebApi_HostAddress = http://localhost:5264
+
+GET {{MTechWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

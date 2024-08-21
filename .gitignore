@@ -1,0 +1,17 @@
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+bin/
+obj/
+
+*.config
+*.log
+*.tmp
+
+.DS_Store
+Thumbs.db
+
+.vscode/
